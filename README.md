@@ -1,3 +1,8 @@
+install
+```bash
+git clone https://github.com/ball0803/PSSF.git
+```
+
 compile command
 
 ```bash
